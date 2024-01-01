@@ -31,3 +31,4 @@
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajifowobajeisaac&layout=compact&theme=dark&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api?username=Ajifowobajeisaac&show_icons=true&locale=en&theme=onedark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajifowobajeisaac&theme=dark" alt="Isaac's streak" />
