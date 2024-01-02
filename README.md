@@ -38,9 +38,6 @@
 - Time Management
 - Creativity
 
-## ❤ Views and Followers
-[![GitHub followers](https://img.shields.io/github/followers/Ajifowobajeisaac?style=social)](https://github.com/Ajifowobajeisaac?tab=followers)
-
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajifowobajeisaac&layout=compact&theme=dark&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api?username=Ajifowobajeisaac&show_icons=true&locale=en&theme=onedark" />
