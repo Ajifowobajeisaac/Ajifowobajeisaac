@@ -25,7 +25,7 @@
 
 ## 🛠 Skills
 - **Front-end Development**: HTML, CSS, JavaScript, React
-- **Back-end Development**: Python, Node.js, Django, Flask
+- **Back-end Development**: Python, Node.js, Django, Flask, SQLAlchemy 
 - **DevOps**: Docker, AWS
 - **Version Control**: Git, GitHub
 - **Testing and Quality Assurance**: Jest
