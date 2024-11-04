@@ -2,12 +2,12 @@
 <h3 align="center">End to End Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajifowobajeisaac&label=Profile%20views&color=0e75b6&style=flat" alt="Isaac" /> </p>
 
-- 🔭 I’m currently working on **a Recipe Log web application using Python and Django, and an Airbnb clone using JavaScript, React, and NodeJS.**
-- 🌱 I’m learning **advanced aspects of Django and React.**
+- 🔭 I’m currently working on **Sonushare, a cross-platform playlist conversion web app using JavaScript, React, and NodeJS.**
+- 🌱 I’m proficient in **advanced aspects of Django and React.**
 - 💬 Ask me about **Python, Django, JavaScript, React, and NodeJS.**
 - 📫 How to reach me: **ajifowobajeisaac@gmail.com**
 - ⚡ Fun fact: **"For my next trick, I shall turn wine to code."**
-- 📚 ALX Software Engineering | End to End Developer
+- 📚 Msc Business Management | End to End Developer
 - 🌏 I am based in London, UK
 
 ## 🔗 Links
