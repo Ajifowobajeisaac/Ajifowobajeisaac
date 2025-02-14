@@ -7,6 +7,7 @@
 - 💬 Ask me about **Python, Django, JavaScript, React, and NodeJS.**
 - 📫 How to reach me: **ajifowobajeisaac@gmail.com**
 - ⚡ Fun fact: **"For my next trick, I shall turn wine to code."**
+- - ♟️ I love chess
 - 📚 Msc Business Management | End to End Developer
 - 🌏 I am based in London, UK
 
